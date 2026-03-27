@@ -52,27 +52,27 @@ The project includes the following graphs:
 1. **Monthly Sales Trend**  
 2. **Sales Distribution**  
 3. **Monthly Sales Comparison**  
-4. **Sales Forecast**  
-5. **Sales Forecast**
+4. **Sales Forecast 1**  
+5. **Sales Forecast 2**
 
 ---
 
 ## 📈 Project Visualizations
 
 ### 1️⃣ Monthly Sales Trend
-![Sales Trend](monthly sales trend.png)
+![Sales Trend](Monthly_Sales_Trend.png)
 
 ### 2️⃣ Sales Distribution
-![Sales Distribution](Sales Distribution.png)
+![Sales Distribution](Sales_Distribution.png)
 
 ### 3️⃣ Monthly Sales Comparison
-![Monthly Sales](Monthly Sales Comparison.png)
+![Monthly Sales](Monthly_Sales_Comparison.png)
 
-### 4️⃣ Sales Forecast
-![Actual vs Predicted](Sales Forecast.png)
+### 4️⃣ Sales Forecast 1
+![Actual vs Predicted](Sales_Forecast.png)
 
-### 5️⃣ Sales Forecast
-![Future Forecast](Sales Forecast 1.png)
+### 5️⃣ Sales Forecast 2
+![Future Forecast](Sales_Forecast_1.png)
 
 ---
 
